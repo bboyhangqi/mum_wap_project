@@ -16,7 +16,7 @@
 
     <servlet>
         <servlet-name>OrderServelet</servlet-name>
-        <servlet-class>order.OrderServelet</servlet-class>
+        <servlet-class>controller.order.OrderServelet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>OrderServelet</servlet-name>

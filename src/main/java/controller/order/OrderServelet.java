@@ -1,4 +1,4 @@
-package order;
+package controller.order;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
